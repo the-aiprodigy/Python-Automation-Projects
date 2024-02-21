@@ -4,11 +4,11 @@ This repository is a collection of Python scripts aimed at automating a wide arr
 
 ## Contents
 
-- **Bank Account Simulator**: Automates transactions and account management while demonstrating exception handling.
-- **File Organizer**: Scripts to automate the organization of files in your filesystem.
+- **Bank Account Simulator**: Script that automates transactions and account management while demonstrating exception handling.
+- **OneDrive File Organizer**: Script that automates the organization of files in your local OneDrive filesystem.
 - **Data Scraper**: Tools to automatically scrape and process data from the web.
 - **Email Sender**: A utility to send emails automatically using Python.
-- **PDF Processing**: Scripts to automate the creation, manipulation, and parsing of PDF files.
+- **PDF Processing**: Script to automate the creation, manipulation, and parsing of PDF files.
 
 
 ## Getting Started
