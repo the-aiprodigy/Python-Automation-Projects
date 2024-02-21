@@ -34,4 +34,4 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/the-aiprod
 
 [Mapenzi Supaki](https://theaiprodigy.com/)
 
-## [Project Link](https://github.com/your-username/PythonAutomationProjects)
+[Project Link](https://github.com/your-username/PythonAutomationProjects)
